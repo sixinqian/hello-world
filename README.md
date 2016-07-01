@@ -2,4 +2,5 @@
 this is my test repository
 Hello,
 
-Simply and clean; the beauty of each item; best or never
+simple; clean; beauty; 
+best or never
